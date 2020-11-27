@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"github.com/quay/clair/tree/development-3.0/api/v3/clairpb"
-	"github.com/yrlyd/optiopay-klar-modifed/docker"
+	"github.com/yrlyd/optiopay-klar-modified/docker"
 	"google.golang.org/grpc"
 )
 
