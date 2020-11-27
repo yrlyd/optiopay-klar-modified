@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/optiopay/klar/clair"
-	"github.com/optiopay/klar/docker"
-	"github.com/optiopay/klar/utils"
+	"github.com/yrlyd/optiopay-klar-modifed/clair"
+	"github.com/yrlyd/optiopay-klar-modifed/docker"
+	"github.com/yrlyd/optiopay-klar-modifed/utils"
 
 	"gopkg.in/yaml.v2"
 )
