@@ -4,13 +4,13 @@
 	"package": [
 		{
 			"checksumSHA1": "H1CjsPDh9Z1blqsqJIJ+EUfQEeo=",
-			"path": "github.com/quay/clair/tree/development-3.0/api/v3/clairpb",
+			"path": "github.com/quay/clair/api/v3/clairpb@development-3.0",
 			"revision": "b1cd09231990e44bc3376f95dcb94e2c3026a1ec",
 			"revisionTime": "2018-07-17T23:57:26Z"
 		},
 		{
 			"checksumSHA1": "iPtWcXdYFZAMGNjro3z3nX5qYD4=",
-			"path": "github.com/quay/clair/tree/development-3.0/database",
+			"path": "github.com/quay/clair/database@development-3.0",
 			"revision": "b1cd09231990e44bc3376f95dcb94e2c3026a1ec",
 			"revisionTime": "2018-07-17T23:57:26Z"
 		},

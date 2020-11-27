@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/quay/clair/tree/development-3.0/api/v3/clairpb"
+	"github.com/quay/clair/api/v3/clairpb@development-3.0"
 	"github.com/yrlyd/optiopay-klar-modified/docker"
 	"github.com/yrlyd/optiopay-klar-modified/utils"
 	"google.golang.org/grpc"
