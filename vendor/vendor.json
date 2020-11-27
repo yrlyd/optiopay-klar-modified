@@ -4,25 +4,25 @@
 	"package": [
 		{
 			"checksumSHA1": "H1CjsPDh9Z1blqsqJIJ+EUfQEeo=",
-			"path": "github.com/quay/clair/api/v3/clairpb@development-3.0",
+			"path": "github.com/yrlyd/quay-clair-modified/api/v3/clairpb",
 			"revision": "b1cd09231990e44bc3376f95dcb94e2c3026a1ec",
 			"revisionTime": "2018-07-17T23:57:26Z"
 		},
 		{
 			"checksumSHA1": "iPtWcXdYFZAMGNjro3z3nX5qYD4=",
-			"path": "github.com/quay/clair/database@development-3.0",
+			"path": "github.com/yrlyd/quay-clair-modified/database",
 			"revision": "b1cd09231990e44bc3376f95dcb94e2c3026a1ec",
 			"revisionTime": "2018-07-17T23:57:26Z"
 		},
 		{
 			"checksumSHA1": "VMxfZpMDX8d4KZD96K9/RXRULtU=",
-			"path": "github.com/quay/clair/tree/development-3.0/ext/versionfmt",
+			"path": "github.com/yrlyd/quay-clair-modified/ext/versionfmt",
 			"revision": "b1cd09231990e44bc3376f95dcb94e2c3026a1ec",
 			"revisionTime": "2018-07-17T23:57:26Z"
 		},
 		{
 			"checksumSHA1": "ITzWX1LucDMHcZh509uUwc920KY=",
-			"origin": "github.com/quay/clair/tree/development-3.0/vendor/github.com/golang/protobuf/jsonpb",
+			"origin": "github.com/yrlyd/quay-clair-modified/vendor/github.com/golang/protobuf/jsonpb",
 			"path": "github.com/golang/protobuf/jsonpb",
 			"revision": "1425086670521ed5510e5dadd5e0b374d33e0b87",
 			"revisionTime": "2017-11-28T22:15:06Z"
@@ -35,7 +35,7 @@
 		},
 		{
 			"checksumSHA1": "Z1gJ3PKzwBpOoPnTSEM5yd0zHYA=",
-			"origin": "github.com/quay/clair/tree/development-3.0/vendor/github.com/golang/protobuf/protoc-gen-go/descriptor",
+			"origin": "github.com/yrlyd/quay-clair-modified/vendor/github.com/golang/protobuf/protoc-gen-go/descriptor",
 			"path": "github.com/golang/protobuf/protoc-gen-go/descriptor",
 			"revision": "1425086670521ed5510e5dadd5e0b374d33e0b87",
 			"revisionTime": "2017-11-28T22:15:06Z"
@@ -60,14 +60,14 @@
 		},
 		{
 			"checksumSHA1": "kGENkjYJ18VCC+pILfHdT/twU60=",
-			"origin": "github.com/quay/clair/tree/development-3.0/vendor/github.com/golang/protobuf/ptypes/empty",
+			"origin": "github.com/yrlyd/quay-clair-modified/vendor/github.com/golang/protobuf/ptypes/empty",
 			"path": "github.com/golang/protobuf/ptypes/empty",
 			"revision": "1425086670521ed5510e5dadd5e0b374d33e0b87",
 			"revisionTime": "2017-11-28T22:15:06Z"
 		},
 		{
 			"checksumSHA1": "Z5Cpi8mr3kfpZ/CdmudThTWQ0Mo=",
-			"origin": "github.com/quay/clair/tree/development-3.0/vendor/github.com/golang/protobuf/ptypes/struct",
+			"origin": "github.com/yrlyd/quay-clair-modified/vendor/github.com/golang/protobuf/ptypes/struct",
 			"path": "github.com/golang/protobuf/ptypes/struct",
 			"revision": "1425086670521ed5510e5dadd5e0b374d33e0b87",
 			"revisionTime": "2017-11-28T22:15:06Z"
@@ -80,28 +80,28 @@
 		},
 		{
 			"checksumSHA1": "YQO4eVvH/GyP3/U/gUp2Uq22ha4=",
-			"origin": "github.com/quay/clair/tree/development-3.0/vendor/github.com/grpc-ecosystem/grpc-gateway/runtime",
+			"origin": "github.com/yrlyd/quay-clair-modified/vendor/github.com/grpc-ecosystem/grpc-gateway/runtime",
 			"path": "github.com/grpc-ecosystem/grpc-gateway/runtime",
 			"revision": "1425086670521ed5510e5dadd5e0b374d33e0b87",
 			"revisionTime": "2017-11-28T22:15:06Z"
 		},
 		{
 			"checksumSHA1": "V1qChZAWS+xzlEBSyz2r8JlzmM8=",
-			"origin": "github.com/quay/clair/tree/development-3.0/vendor/github.com/grpc-ecosystem/grpc-gateway/runtime/internal",
+			"origin": "github.com/yrlyd/quay-clair-modified/vendor/github.com/grpc-ecosystem/grpc-gateway/runtime/internal",
 			"path": "github.com/grpc-ecosystem/grpc-gateway/runtime/internal",
 			"revision": "1425086670521ed5510e5dadd5e0b374d33e0b87",
 			"revisionTime": "2017-11-28T22:15:06Z"
 		},
 		{
 			"checksumSHA1": "vqiK5r5dntV7JNZ+ZsGlD0Samos=",
-			"origin": "github.com/quay/clair/tree/development-3.0/vendor/github.com/grpc-ecosystem/grpc-gateway/utilities",
+			"origin": "github.com/yrlyd/quay-clair-modified/vendor/github.com/grpc-ecosystem/grpc-gateway/utilities",
 			"path": "github.com/grpc-ecosystem/grpc-gateway/utilities",
 			"revision": "1425086670521ed5510e5dadd5e0b374d33e0b87",
 			"revisionTime": "2017-11-28T22:15:06Z"
 		},
 		{
 			"checksumSHA1": "Wma1ByOP+f4o3I2q1WIuMSuEoCI=",
-			"origin": "github.com/quay/clair/tree/development-3.0/vendor/github.com/sirupsen/logrus",
+			"origin": "github.com/yrlyd/quay-clair-modified/vendor/github.com/sirupsen/logrus",
 			"path": "github.com/sirupsen/logrus",
 			"revision": "1425086670521ed5510e5dadd5e0b374d33e0b87",
 			"revisionTime": "2017-11-28T22:15:06Z"
@@ -150,7 +150,7 @@
 		},
 		{
 			"checksumSHA1": "4t38rpjTv5UgjxMMFKn4ad+DhU8=",
-			"origin": "github.com/quay/clair/tree/development-3.0/vendor/golang.org/x/sys/unix",
+			"origin": "github.com/yrlyd/quay-clair-modified/vendor/golang.org/x/sys/unix",
 			"path": "golang.org/x/sys/unix",
 			"revision": "1425086670521ed5510e5dadd5e0b374d33e0b87",
 			"revisionTime": "2017-11-28T22:15:06Z"
@@ -181,7 +181,7 @@
 		},
 		{
 			"checksumSHA1": "B22iMMY2vi1Q9kseWb/ZznpW8lQ=",
-			"origin": "github.com/quay/clair/tree/development-3.0/vendor/google.golang.org/genproto/googleapis/api/annotations",
+			"origin": "github.com/yrlyd/quay-clair-modified/vendor/google.golang.org/genproto/googleapis/api/annotations",
 			"path": "google.golang.org/genproto/googleapis/api/annotations",
 			"revision": "1425086670521ed5510e5dadd5e0b374d33e0b87",
 			"revisionTime": "2017-11-28T22:15:06Z"
@@ -236,7 +236,7 @@
 		},
 		{
 			"checksumSHA1": "d0cyferoJguQhL6d2K6g2oC0mVM=",
-			"origin": "github.com/quay/clair/tree/development-3.0/vendor/google.golang.org/grpc/grpclb/grpc_lb_v1",
+			"origin": "github.com/yrlyd/quay-clair-modified/vendor/google.golang.org/grpc/grpclb/grpc_lb_v1",
 			"path": "google.golang.org/grpc/grpclb/grpc_lb_v1",
 			"revision": "1425086670521ed5510e5dadd5e0b374d33e0b87",
 			"revisionTime": "2017-11-28T22:15:06Z"
